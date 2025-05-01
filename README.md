@@ -1,2 +1,2 @@
 # Oblivion-Character-Generator-
-A s
+A python script that generates a random Oblivion character for you
